@@ -1,0 +1,2301 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "name": "Saraswati Sadan",
+      "latitude": 11.858149,
+      "longitude": 82.71226,
+      "state": "Gujarat",
+      "city": "Vadodara",
+      "landmark": "Adjacent to Hospital",
+      "price": 8438669,
+      "shippage": 408128,
+      "ammenities": ["WiFi", "Security", "Gym"],
+      "rent": 31268,
+      "priceBreakdown": {
+          "basePrice": 7500000,
+          "gst": 375000,
+          "stampDuty": 225000,
+          "registrationCharges": 150000,
+          "maintenanceDeposit": 188669
+      },
+      "reviews": [
+          {
+              "id": 1,
+              "user": "John Doe",
+              "rating": 4.5,
+              "comment": "Great locality, peaceful environment",
+              "date": "2024-03-20"
+          }
+      ]
+  },
+  {
+      "id": 2,
+      "name": "Krishna Residency",
+      "latitude": 13.0827,
+      "longitude": 80.2707,
+      "state": "Tamil Nadu",
+      "city": "Chennai",
+      "landmark": "Near Tech Park",
+      "price": 12500000,
+      "shippage": 612500,
+      "ammenities": ["Swimming Pool", "Parking", "Club House"],
+      "rent": 45000,
+      "priceBreakdown": {
+          "basePrice": 11000000,
+          "gst": 550000,
+          "stampDuty": 330000,
+          "registrationCharges": 220000,
+          "maintenanceDeposit": 400000
+      },
+      "reviews": [
+          {
+              "id": 1,
+              "user": "Emily Zhang",
+              "rating": 4.8,
+              "comment": "Excellent ammenities and location",
+              "date": "2024-02-15"
+          }
+      ]
+  },
+  {
+      "id": 3,
+      "name": "Sunrise Towers",
+      "latitude": 19.0760,
+      "longitude": 72.8777,
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "landmark": "Opposite Mall",
+      "price": 22000000,
+      "shippage": 1100000,
+      "ammenities": ["Gym", "Security", "Concierge", "Co-working Space"],
+      "rent": 75000,
+      "priceBreakdown": {
+          "basePrice": 20000000,
+          "gst": 1000000,
+          "stampDuty": 600000,
+          "registrationCharges": 400000,
+          "maintenanceDeposit": 0
+      },
+      "reviews": [
+          {
+              "id": 1,
+              "user": "Rajesh Kumar",
+              "rating": 4.6,
+              "comment": "Modern living with great facilities",
+              "date": "2024-01-10"
+          }
+      ]
+  },
+  {
+      "id": 4,
+      "name": "Green Valley Apartments",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "landmark": "Near Software Hub",
+      "price": 9800000,
+      "shippage": 490000,
+      "ammenities": ["WiFi", "Fitness Center", "Children's Play Area"],
+      "rent": 38000,
+      "priceBreakdown": {
+          "basePrice": 9000000,
+          "gst": 450000,
+          "stampDuty": 270000,
+          "registrationCharges": 180000,
+          "maintenanceDeposit": 150000
+      },
+      "reviews": [
+          {
+              "id": 1,
+              "user": "Sarah Patel",
+              "rating": 4.3,
+              "comment": "Quiet and comfortable residential complex",
+              "date": "2024-04-05"
+          }
+      ]
+  },
+  {
+      "id": 5,
+      "name": "Harmony Heights",
+      "latitude": 22.5726,
+      "longitude": 88.3639,
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "landmark": "Near Metro Station",
+      "price": 6500000,
+      "shippage": 325000,
+      "ammenities": ["Security", "Community Hall", "Landscaped Gardens"],
+      "rent": 25000,
+      "priceBreakdown": {
+          "basePrice": 6000000,
+          "gst": 300000,
+          "stampDuty": 180000,
+          "registrationCharges": 120000,
+          "maintenanceDeposit": 100000
+      },
+      "reviews": [
+          {
+              "id": 1,
+              "user": "Amit Sharma",
+              "rating": 4.2,
+              "comment": "Affordable and well-maintained",
+              "date": "2024-02-28"
+          }
+      ]
+  },
+  {
+      "id": 6,
+      "name": "Ocean View Residences",
+      "latitude": 15.4909,
+      "longitude": 73.8278,
+      "state": "Goa",
+      "city": "Panaji",
+      "landmark": "Beach Road",
+      "price": 15000000,
+      "shippage": 750000,
+      "ammenities": ["Sea View", "Private Beach Access", "Spa"],
+      "rent": 60000,
+      "priceBreakdown": {
+          "basePrice": 14000000,
+          "gst": 700000,
+          "stampDuty": 420000,
+          "registrationCharges": 280000,
+          "maintenanceDeposit": 300000
+      },
+      "reviews": [
+          {
+              "id": 1,
+              "user": "Michael Rodriguez",
+              "rating": 4.9,
+              "comment": "Luxurious beachfront living",
+              "date": "2024-03-15"
+          }
+      ]
+  },
+  {
+      "id": 7,
+      "name": "Tech Park Residency",
+      "latitude": 17.3850,
+      "longitude": 78.4867,
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "landmark": "Cyber City",
+      "price": 11200000,
+      "shippage": 560000,
+      "ammenities": ["High-Speed Internet", "Business Center", "24/7 Security"],
+      "rent": 42000,
+      "priceBreakdown": {
+          "basePrice": 10500000,
+          "gst": 525000,
+          "stampDuty": 315000,
+          "registrationCharges": 210000,
+          "maintenanceDeposit": 150000
+      },
+      "reviews": [
+          {
+              "id": 1,
+              "user": "Priya Iyer",
+              "rating": 4.7,
+              "comment": "Perfect for IT professionals",
+              "date": "2024-01-25"
+          }
+      ]
+  },
+  {
+      "id": 8,
+      "name": "Royal Palms",
+      "latitude": 26.9124,
+      "longitude": 75.7873,
+      "state": "Rajasthan",
+      "city": "Jaipur",
+      "landmark": "Near Historical Site",
+      "price": 8900000,
+      "shippage": 445000,
+      "ammenities": ["Swimming Pool", "Tennis Court", "Club House"],
+      "rent": 35000,
+      "priceBreakdown": {
+          "basePrice": 8250000,
+          "gst": 412500,
+          "stampDuty": 247500,
+          "registrationCharges": 165000,
+          "maintenanceDeposit": 175000
+      },
+      "reviews": [
+          {
+              "id": 1,
+              "user": "David Lee",
+              "rating": 4.4,
+              "comment": "Beautiful architecture and ammenities",
+              "date": "2024-04-01"
+          }
+      ]
+  },
+  {
+      "id": 9,
+      "name": "Mountain View Apartments",
+      "latitude": 30.9010,
+      "longitude": 75.8573,
+      "state": "Punjab",
+      "city": "Chandigarh",
+      "landmark": "Near University Campus",
+      "price": 7200000,
+      "shippage": 360000,
+      "ammenities": ["Study Rooms", "Gym", "Shuttle Service"],
+      "rent": 29000,
+      "priceBreakdown": {
+          "basePrice": 6750000,
+          "gst": 337500,
+          "stampDuty": 202500,
+          "registrationCharges": 135000,
+          "maintenanceDeposit": 125000
+      },
+      "reviews": [
+          {
+              "id": 1,
+              "user": "Lisa Wang",
+              "rating": 4.1,
+              "comment": "Great for students and professionals",
+              "date": "2024-03-05"
+          }
+      ]
+  },
+  {
+      "id": 10,
+      "name": "Desert Oasis Residency",
+      "latitude": 23.0225,
+      "longitude": 72.5714,
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "landmark": "Business District",
+      "price": 10500000,
+      "shippage": 525000,
+      "ammenities": ["Rooftop Garden", "Conference Rooms", "Fitness Center"],
+      "rent": 40000,
+      "priceBreakdown": {
+          "basePrice": 9750000,
+          "gst": 487500,
+          "stampDuty": 292500,
+          "registrationCharges": 195000,
+          "maintenanceDeposit": 225000
+      },
+      "reviews": [
+          {
+              "id": 1,
+              "user": "Vikram Patel",
+              "rating": 4.5,
+              "comment": "Modern ammenities in a prime location",
+              "date": "2024-02-20"
+          }
+      ]
+  },
+  {
+      "id": 11,
+      "name": "Golden Heights",
+      "latitude": 18.5204,
+      "longitude": 73.8567,
+      "state": "Maharashtra",
+      "city": "Pune",
+      "landmark": "Near IT Park",
+      "price": 9500000,
+      "shippage": 475000,
+      "ammenities": ["Swimming Pool", "Gym", "Parking"],
+      "rent": 37000,
+      "priceBreakdown": {
+          "basePrice": 9000000,
+          "gst": 450000,
+          "stampDuty": 270000,
+          "registrationCharges": 180000,
+          "maintenanceDeposit": 200000
+      },
+      "reviews": [
+          {
+              "id": 1,
+              "user": "Rahul Singh",
+              "rating": 4.6,
+              "comment": "Great place for families",
+              "date": "2024-03-10"
+          }
+      ]
+  },
+  {
+      "id": 12,
+      "name": "Silver Springs",
+      "latitude": 28.6139,
+      "longitude": 77.2090,
+      "state": "Delhi",
+      "city": "New Delhi",
+      "landmark": "Near Metro Station",
+      "price": 11000000,
+      "shippage": 550000,
+      "ammenities": ["Security", "Gym", "Club House"],
+      "rent": 43000,
+      "priceBreakdown": {
+          "basePrice": 10000000,
+          "gst": 500000,
+          "stampDuty": 300000,
+          "registrationCharges": 200000,
+          "maintenanceDeposit": 250000
+      },
+      "reviews": [
+          {
+              "id": 1,
+              "user": "Anjali Mehta",
+              "rating": 4.7,
+              "comment": "Excellent connectivity and ammenities",
+              "date": "2024-02-25"
+          }
+      ]
+  },
+  {
+      "id": 13,
+      "name": "Emerald Greens",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "landmark": "Near Tech Hub",
+      "price": 13000000,
+      "shippage": 650000,
+      "ammenities": ["Swimming Pool", "Gym", "Parking", "Club House"],
+      "rent": 50000,
+      "priceBreakdown": {
+          "basePrice": 12000000,
+          "gst": 600000,
+          "stampDuty": 360000,
+          "registrationCharges": 240000,
+          "maintenanceDeposit": 300000
+      },
+      "reviews": [
+          {
+              "id": 1,
+              "user": "Sanjay Gupta",
+              "rating": 4.8,
+              "comment": "Luxurious living with great facilities",
+              "date": "2024-01-15"
+          }
+      ]
+  },
+  {
+      "id": 14,
+      "name": "Crystal Towers",
+      "latitude": 17.3850,
+      "longitude": 78.4867,
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "landmark": "Near Financial District",
+      "price": 14000000,
+      "shippage": 700000,
+      "ammenities": ["High-Speed Internet", "Gym", "Swimming Pool"],
+      "rent": 55000,
+      "priceBreakdown": {
+          "basePrice": 13000000,
+          "gst": 650000,
+          "stampDuty": 390000,
+          "registrationCharges": 260000,
+          "maintenanceDeposit": 350000
+      },
+      "reviews": [
+          {
+              "id": 1,
+              "user": "Kiran Reddy",
+              "rating": 4.9,
+              "comment": "Perfect for professionals",
+              "date": "2024-03-01"
+          }
+      ]
+  },
+  {
+      "id": 15,
+      "name": "Royal Gardens",
+      "latitude": 26.9124,
+      "longitude": 75.7873,
+      "state": "Rajasthan",
+      "city": "Jaipur",
+      "landmark": "Near City Palace",
+      "price": 8000000,
+      "shippage": 400000,
+      "ammenities": ["Swimming Pool", "Gym", "Parking"],
+      "rent": 32000,
+      "priceBreakdown": {
+          "basePrice": 7500000,
+          "gst": 375000,
+          "stampDuty": 225000,
+          "registrationCharges": 150000,
+          "maintenanceDeposit": 200000
+      },
+      "reviews": [
+          {
+              "id": 1,
+              "user": "Ravi Sharma",
+              "rating": 4.5,
+              "comment": "Beautiful and serene environment",
+              "date": "2024-02-10"
+          }
+      ]
+  },
+    {
+        "id": 16,
+        "name": "Aman Villa",
+        "latitude": 26.80484,
+        "longitude": 79.228131,
+        "state": "Madhya Pradesh",
+        "city": "Indore",
+        "landmark": "Near Park",
+        "price": 16132134,
+        "shippage": 361508,
+        "ammenities": [
+            "Security",
+            "WiFi"
+        ],
+        "rent": 27912,
+        "priceBreakdown": {
+            "basePrice": 7650654,
+            "gst": 382533,
+            "stampDuty": 229520,
+            "registrationCharges": 153013,
+            "maintenanceDeposit": 65760
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "Anita Sharma",
+                "rating": 4.0,
+                "comment": "Excellent amenities and connectivity",
+                "date": "2025-01-06"
+            },
+            {
+                "id": 2,
+                "user": "Anita Sharma",
+                "rating": 4.7,
+                "comment": "Well-maintained and secure society",
+                "date": "2024-12-24"
+            },
+            {
+                "id": 3,
+                "user": "Rajesh Kumar",
+                "rating": 3.6,
+                "comment": "Well-maintained and secure society",
+                "date": "2025-01-11"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Sai Sadan",
+        "latitude": 9.225018,
+        "longitude": 84.639942,
+        "state": "Uttar Pradesh",
+        "city": "Noida",
+        "landmark": "Near IT Hub",
+        "price": 28130343,
+        "shippage": 332913,
+        "ammenities": [
+            "Swimming Pool",
+            "Security",
+            "Garden",
+            "Parking",
+            "Club House"
+        ],
+        "rent": 18776,
+        "priceBreakdown": {
+            "basePrice": 13313072,
+            "gst": 665654,
+            "stampDuty": 399392,
+            "registrationCharges": 266261,
+            "maintenanceDeposit": 172892
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "Amit Joshi",
+                "rating": 4.9,
+                "comment": "Great locality, peaceful environment",
+                "date": "2024-12-25"
+            },
+            {
+                "id": 2,
+                "user": "Anita Sharma",
+                "rating": 3.3,
+                "comment": "Excellent amenities and connectivity",
+                "date": "2024-07-13"
+            },
+            {
+                "id": 3,
+                "user": "John Doe",
+                "rating": 4.4,
+                "comment": "Great locality, peaceful environment",
+                "date": "2024-07-23"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Om Residency",
+        "latitude": 29.115653,
+        "longitude": 87.404609,
+        "state": "Kerala",
+        "city": "Kochi",
+        "landmark": "Near Tech Park",
+        "price": 21429909,
+        "shippage": 310905,
+        "ammenities": [
+            "WiFi",
+            "Play Area",
+            "Security",
+            "CCTV Surveillance"
+        ],
+        "rent": 32488,
+        "priceBreakdown": {
+            "basePrice": 10174340,
+            "gst": 508717,
+            "stampDuty": 305230,
+            "registrationCharges": 203487,
+            "maintenanceDeposit": 63795
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "Amit Joshi",
+                "rating": 3.2,
+                "comment": "Excellent amenities and connectivity",
+                "date": "2024-07-08"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Parvati Nivas",
+        "latitude": 26.202971,
+        "longitude": 89.431625,
+        "state": "Tamil Nadu",
+        "city": "Chennai",
+        "landmark": "Near Market",
+        "price": 25559351,
+        "shippage": 208376,
+        "ammenities": [
+            "Air Conditioning",
+            "Club House",
+            "Gym",
+            "Parking"
+        ],
+        "rent": 33736,
+        "priceBreakdown": {
+            "basePrice": 12076906,
+            "gst": 603845,
+            "stampDuty": 362307,
+            "registrationCharges": 241538,
+            "maintenanceDeposit": 197849
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "Vikram Singh",
+                "rating": 3.9,
+                "comment": "Friendly neighbors and good surroundings",
+                "date": "2024-08-28"
+            },
+            {
+                "id": 2,
+                "user": "Vikram Singh",
+                "rating": 3.9,
+                "comment": "Friendly neighbors and good surroundings",
+                "date": "2024-06-15"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Meghdoot",
+        "latitude": 33.163718,
+        "longitude": 88.12669,
+        "state": "Maharashtra",
+        "city": "Nagpur",
+        "landmark": "Adjacent to Hospital",
+        "price": 17637979,
+        "shippage": 420842,
+        "ammenities": [
+            "CCTV Surveillance",
+            "WiFi"
+        ],
+        "rent": 41360,
+        "priceBreakdown": {
+            "basePrice": 8321168,
+            "gst": 416058,
+            "stampDuty": 249635,
+            "registrationCharges": 166423,
+            "maintenanceDeposit": 163527
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "Anita Sharma",
+                "rating": 3.2,
+                "comment": "Value for money, but a bit far from the city center",
+                "date": "2024-06-13"
+            },
+            {
+                "id": 2,
+                "user": "Vikram Singh",
+                "rating": 3.4,
+                "comment": "Well-maintained and secure society",
+                "date": "2024-06-28"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Meghdoot",
+        "latitude": 35.372518,
+        "longitude": 85.337356,
+        "state": "West Bengal",
+        "city": "Kolkata",
+        "landmark": "Near IT Hub",
+        "price": 25045888,
+        "shippage": 357167,
+        "ammenities": [
+            "Security",
+            "CCTV Surveillance",
+            "WiFi"
+        ],
+        "rent": 48546,
+        "priceBreakdown": {
+            "basePrice": 11884012,
+            "gst": 594201,
+            "stampDuty": 356520,
+            "registrationCharges": 237680,
+            "maintenanceDeposit": 89463
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "Anita Sharma",
+                "rating": 3.2,
+                "comment": "Well-maintained and secure society",
+                "date": "2024-03-21"
+            },
+            {
+                "id": 2,
+                "user": "Rajesh Kumar",
+                "rating": 4.7,
+                "comment": "Friendly neighbors and good surroundings",
+                "date": "2025-01-10"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Lakshmi Villa",
+        "latitude": 8.108973,
+        "longitude": 87.789837,
+        "state": "Tamil Nadu",
+        "city": "Madurai",
+        "landmark": "Near Airport",
+        "price": 22046701,
+        "shippage": 386401,
+        "ammenities": [
+            "Power Backup",
+            "Elevator",
+            "Gym",
+            "Security",
+            "Garden"
+        ],
+        "rent": 23255,
+        "priceBreakdown": {
+            "basePrice": 10455925,
+            "gst": 522796,
+            "stampDuty": 313678,
+            "registrationCharges": 209118,
+            "maintenanceDeposit": 89259
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "Rajesh Kumar",
+                "rating": 4.4,
+                "comment": "Spacious and airy rooms",
+                "date": "2024-12-03"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Jyoti Nivas",
+        "latitude": 35.125266,
+        "longitude": 85.874366,
+        "state": "Kerala",
+        "city": "Kochi",
+        "landmark": "Near Park",
+        "price": 8395230,
+        "shippage": 334692,
+        "ammenities": [
+            "Power Backup",
+            "Garden",
+            "CCTV Surveillance"
+        ],
+        "rent": 19673,
+        "priceBreakdown": {
+            "basePrice": 3941579,
+            "gst": 197079,
+            "stampDuty": 118247,
+            "registrationCharges": 78832,
+            "maintenanceDeposit": 117914
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "Vikram Singh",
+                "rating": 3.3,
+                "comment": "Well-maintained and secure society",
+                "date": "2024-02-18"
+            },
+            {
+                "id": 2,
+                "user": "Anita Sharma",
+                "rating": 3.6,
+                "comment": "Spacious and airy rooms",
+                "date": "2024-05-31"
+            },
+            {
+                "id": 3,
+                "user": "Anita Sharma",
+                "rating": 3.8,
+                "comment": "Friendly neighbors and good surroundings",
+                "date": "2024-08-09"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Shanti Kunj",
+        "latitude": 29.683945,
+        "longitude": 84.294119,
+        "state": "Bihar",
+        "city": "Patna",
+        "landmark": "Near Tech Park",
+        "price": 31329581,
+        "shippage": 391194,
+        "ammenities": [
+            "Parking",
+            "Power Backup",
+            "Gym"
+        ],
+        "rent": 15569,
+        "priceBreakdown": {
+            "basePrice": 14873540,
+            "gst": 743677,
+            "stampDuty": 446206,
+            "registrationCharges": 297471,
+            "maintenanceDeposit": 95147
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "Priya Mehta",
+                "rating": 4.1,
+                "comment": "Spacious and airy rooms",
+                "date": "2024-07-17"
+            },
+            {
+                "id": 2,
+                "user": "Amit Joshi",
+                "rating": 3.9,
+                "comment": "Friendly neighbors and good surroundings",
+                "date": "2024-04-01"
+            },
+            {
+                "id": 3,
+                "user": "Amit Joshi",
+                "rating": 3.2,
+                "comment": "Friendly neighbors and good surroundings",
+                "date": "2024-06-09"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Gokul Dham",
+        "latitude": 19.215369,
+        "longitude": 84.200427,
+        "state": "Gujarat",
+        "city": "Ahmedabad",
+        "landmark": "Close to College",
+        "price": 23172142,
+        "shippage": 366316,
+        "ammenities": [
+            "Elevator",
+            "Power Backup",
+            "Parking",
+            "Security",
+            "CCTV Surveillance"
+        ],
+        "rent": 36452,
+        "priceBreakdown": {
+            "basePrice": 10949689,
+            "gst": 547484,
+            "stampDuty": 328491,
+            "registrationCharges": 218994,
+            "maintenanceDeposit": 177795
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "Priya Mehta",
+                "rating": 4.0,
+                "comment": "Great locality, peaceful environment",
+                "date": "2024-04-01"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Gokul Dham",
+        "latitude": 20.362737,
+        "longitude": 88.237391,
+        "state": "Bihar",
+        "city": "Patna",
+        "landmark": "Near Tech Park",
+        "price": 11480790,
+        "shippage": 113291,
+        "ammenities": [
+            "WiFi",
+            "Parking"
+        ],
+        "rent": 39805,
+        "priceBreakdown": {
+            "basePrice": 5376571,
+            "gst": 268829,
+            "stampDuty": 161297,
+            "registrationCharges": 107531,
+            "maintenanceDeposit": 189991
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "Rajesh Kumar",
+                "rating": 4.9,
+                "comment": "Excellent amenities and connectivity",
+                "date": "2025-01-05"
+            },
+            {
+                "id": 2,
+                "user": "Rajesh Kumar",
+                "rating": 3.9,
+                "comment": "Great locality, peaceful environment",
+                "date": "2025-01-03"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Meghdoot",
+        "latitude": 16.38746,
+        "longitude": 86.574209,
+        "state": "Tamil Nadu",
+        "city": "Chennai",
+        "landmark": "Near MG Road",
+        "price": 5300934,
+        "shippage": 463808,
+        "ammenities": [
+            "Air Conditioning",
+            "WiFi",
+            "Elevator",
+            "Swimming Pool",
+            "Power Backup",
+            "Play Area"
+        ],
+        "rent": 30729,
+        "priceBreakdown": {
+            "basePrice": 2441628,
+            "gst": 122081,
+            "stampDuty": 73249,
+            "registrationCharges": 48833,
+            "maintenanceDeposit": 173515
+        },
+        "reviews": []
+    },
+    {
+        "id": 28,
+        "name": "Ganesh Bhavan",
+        "latitude": 24.226824,
+        "longitude": 78.405658,
+        "state": "Rajasthan",
+        "city": "Jaipur",
+        "landmark": "Behind School",
+        "price": 6233735,
+        "shippage": 292792,
+        "ammenities": [
+            "Parking",
+            "Garden"
+        ],
+        "rent": 32888,
+        "priceBreakdown": {
+            "basePrice": 2915249,
+            "gst": 145762,
+            "stampDuty": 87457,
+            "registrationCharges": 58305,
+            "maintenanceDeposit": 111713
+        },
+        "reviews": []
+    },
+    {
+        "id": 29,
+        "name": "Aashirwad",
+        "latitude": 10.878924,
+        "longitude": 85.190133,
+        "state": "Gujarat",
+        "city": "Surat",
+        "landmark": "Near IT Hub",
+        "price": 21810682,
+        "shippage": 228980,
+        "ammenities": [
+            "Swimming Pool",
+            "Elevator",
+            "Play Area",
+            "CCTV Surveillance",
+            "Club House",
+            "Garden"
+        ],
+        "rent": 24999,
+        "priceBreakdown": {
+            "basePrice": 10312026,
+            "gst": 515601,
+            "stampDuty": 309361,
+            "registrationCharges": 206241,
+            "maintenanceDeposit": 155427
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "John Doe",
+                "rating": 4.5,
+                "comment": "Great locality, peaceful environment",
+                "date": "2024-08-22"
+            }
+        ]
+    },
+    {
+        "id":30,
+        "name": "Kiran Residency",
+        "latitude": 24.712261,
+        "longitude": 80.199909,
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "landmark": "Near MG Road",
+        "price": 8000206,
+        "shippage": 459649,
+        "ammenities": [
+            "Security",
+            "CCTV Surveillance",
+            "Gym",
+            "Swimming Pool",
+            "Club House"
+        ],
+        "rent": 14065,
+        "priceBreakdown": {
+            "basePrice": 3762595,
+            "gst": 188130,
+            "stampDuty": 112878,
+            "registrationCharges": 75252,
+            "maintenanceDeposit": 98756
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "Vikram Singh",
+                "rating": 4.4,
+                "comment": "Value for money, but a bit far from the city center",
+                "date": "2024-07-11"
+            },
+            {
+                "id": 2,
+                "user": "Amit Joshi",
+                "rating": 4.1,
+                "comment": "Value for money, but a bit far from the city center",
+                "date": "2024-02-01"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Vishnu Villa",
+        "latitude": 17.35433,
+        "longitude": 91.36787,
+        "state": "Maharashtra",
+        "city": "Nagpur",
+        "landmark": "Opposite to Shopping Mall",
+        "price": 19914322,
+        "shippage": 196901,
+        "ammenities": [
+            "Play Area",
+            "Club House",
+            "Garden",
+            "Parking",
+            "Power Backup"
+        ],
+        "rent": 17417,
+        "priceBreakdown": {
+            "basePrice": 9433043,
+            "gst": 471652,
+            "stampDuty": 282991,
+            "registrationCharges": 188661,
+            "maintenanceDeposit": 104932
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "Vikram Singh",
+                "rating": 3.4,
+                "comment": "Well-maintained and secure society",
+                "date": "2025-01-09"
+            },
+            {
+                "id": 2,
+                "user": "Anita Sharma",
+                "rating": 4.9,
+                "comment": "Friendly neighbors and good surroundings",
+                "date": "2024-04-26"
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Rudra Villa",
+        "latitude": 18.637908,
+        "longitude": 85.657456,
+        "state": "Bihar",
+        "city": "Patna",
+        "landmark": "Near Metro Station",
+        "price": 22443976,
+        "shippage": 321026,
+        "ammenities": [
+            "Swimming Pool",
+            "Play Area",
+            "Gym"
+        ],
+        "rent": 43177,
+        "priceBreakdown": {
+            "basePrice": 10596627,
+            "gst": 529831,
+            "stampDuty": 317899,
+            "registrationCharges": 211933,
+            "maintenanceDeposit": 191059
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "Vikram Singh",
+                "rating": 4.2,
+                "comment": "Friendly neighbors and good surroundings",
+                "date": "2024-11-29"
+            },
+            {
+                "id": 2,
+                "user": "Rajesh Kumar",
+                "rating": 4.4,
+                "comment": "Value for money, but a bit far from the city center",
+                "date": "2024-10-08"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Rudra Villa",
+        "latitude": 19.777062,
+        "longitude": 91.795569,
+        "state": "Gujarat",
+        "city": "Ahmedabad",
+        "landmark": "Behind School",
+        "price": 27249399,
+        "shippage": 448141,
+        "ammenities": [
+            "CCTV Surveillance",
+            "Parking",
+            "Security",
+            "WiFi",
+            "Play Area",
+            "Garden"
+        ],
+        "rent": 29694,
+        "priceBreakdown": {
+            "basePrice": 12947001,
+            "gst": 647350,
+            "stampDuty": 388410,
+            "registrationCharges": 258940,
+            "maintenanceDeposit": 60697
+        },
+        "reviews": []
+    },
+    {
+        "id": 34,
+        "name": "Kiran Residency",
+        "latitude": 27.035596,
+        "longitude": 83.614659,
+        "state": "Gujarat",
+        "city": "Surat",
+        "landmark": "Near Railway Station",
+        "price": 6971993,
+        "shippage": 149161,
+        "ammenities": [
+            "Play Area",
+            "WiFi",
+            "Gym",
+            "Swimming Pool",
+            "CCTV Surveillance"
+        ],
+        "rent": 12572,
+        "priceBreakdown": {
+            "basePrice": 3233692,
+            "gst": 161685,
+            "stampDuty": 97011,
+            "registrationCharges": 64674,
+            "maintenanceDeposit": 181239
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "Amit Joshi",
+                "rating": 3.1,
+                "comment": "Excellent amenities and connectivity",
+                "date": "2024-04-30"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Meghdoot",
+        "latitude": 22.863062,
+        "longitude": 90.496471,
+        "state": "Uttar Pradesh",
+        "city": "Kanpur",
+        "landmark": "Near Airport",
+        "price": 11065676,
+        "shippage": 201535,
+        "ammenities": [
+            "Swimming Pool",
+            "Power Backup",
+            "CCTV Surveillance",
+            "Parking",
+            "Air Conditioning",
+            "Elevator"
+        ],
+        "rent": 11800,
+        "priceBreakdown": {
+            "basePrice": 5175726,
+            "gst": 258786,
+            "stampDuty": 155272,
+            "registrationCharges": 103515,
+            "maintenanceDeposit": 196651
+        },
+        "reviews": []
+    },
+    {
+        "id": 36,
+        "name": "Aashirwad",
+        "latitude": 34.697651,
+        "longitude": 84.785092,
+        "state": "Gujarat",
+        "city": "Surat",
+        "landmark": "Near IT Hub",
+        "price": 6081898,
+        "shippage": 450957,
+        "ammenities": [
+            "Garden",
+            "WiFi",
+            "Play Area"
+        ],
+        "rent": 10464,
+        "priceBreakdown": {
+            "basePrice": 2858179,
+            "gst": 142909,
+            "stampDuty": 85745,
+            "registrationCharges": 57164,
+            "maintenanceDeposit": 79722
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "Amit Joshi",
+                "rating": 3.1,
+                "comment": "Spacious and airy rooms",
+                "date": "2024-04-09"
+            },
+            {
+                "id": 2,
+                "user": "Amit Joshi",
+                "rating": 3.9,
+                "comment": "Well-maintained and secure society",
+                "date": "2024-05-21"
+            },
+            {
+                "id": 3,
+                "user": "Amit Joshi",
+                "rating": 3.8,
+                "comment": "Spacious and airy rooms",
+                "date": "2024-06-12"
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Anand Bhavan",
+        "latitude": 20.081695,
+        "longitude": 83.285464,
+        "state": "Gujarat",
+        "city": "Vadodara",
+        "landmark": "Opposite to Shopping Mall",
+        "price": 19650840,
+        "shippage": 164296,
+        "ammenities": [
+            "Elevator",
+            "WiFi",
+            "Club House",
+            "Security"
+        ],
+        "rent": 42380,
+        "priceBreakdown": {
+            "basePrice": 9277179,
+            "gst": 463859,
+            "stampDuty": 278315,
+            "registrationCharges": 185544,
+            "maintenanceDeposit": 168764
+        },
+        "reviews": []
+    },
+    {
+        "id": 38,
+        "name": "Chandrika Sadan",
+        "latitude": 28.377305,
+        "longitude": 80.274455,
+        "state": "Madhya Pradesh",
+        "city": "Indore",
+        "landmark": "Near IT Hub",
+        "price": 8457051,
+        "shippage": 383230,
+        "ammenities": [
+            "Air Conditioning",
+            "WiFi",
+            "Security",
+            "Play Area",
+            "Swimming Pool"
+        ],
+        "rent": 30913,
+        "priceBreakdown": {
+            "basePrice": 3971606,
+            "gst": 198580,
+            "stampDuty": 119148,
+            "registrationCharges": 79432,
+            "maintenanceDeposit": 116679
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "Vikram Singh",
+                "rating": 3.4,
+                "comment": "Value for money, but a bit far from the city center",
+                "date": "2024-09-03"
+            },
+            {
+                "id": 2,
+                "user": "John Doe",
+                "rating": 3.7,
+                "comment": "Friendly neighbors and good surroundings",
+                "date": "2024-11-24"
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Jyoti Nivas",
+        "latitude": 27.356961,
+        "longitude": 88.856454,
+        "state": "Punjab",
+        "city": "Ludhiana",
+        "landmark": "Close to College",
+        "price": 10223710,
+        "shippage": 328817,
+        "ammenities": [
+            "CCTV Surveillance",
+            "WiFi"
+        ],
+        "rent": 31748,
+        "priceBreakdown": {
+            "basePrice": 4811162,
+            "gst": 240558,
+            "stampDuty": 144335,
+            "registrationCharges": 96223,
+            "maintenanceDeposit": 120270
+        },
+        "reviews": []
+    },
+    {
+        "id": 40,
+        "name": "Sai Sadan",
+        "latitude": 16.257901,
+        "longitude": 84.373494,
+        "state": "West Bengal",
+        "city": "Kolkata",
+        "landmark": "Close to Bus Stop",
+        "price": 12466508,
+        "shippage": 150390,
+        "ammenities": [
+            "Club House",
+            "Play Area",
+            "Security",
+            "WiFi"
+        ],
+        "rent": 19161,
+        "priceBreakdown": {
+            "basePrice": 5881437,
+            "gst": 294072,
+            "stampDuty": 176443,
+            "registrationCharges": 117629,
+            "maintenanceDeposit": 115490
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "Priya Mehta",
+                "rating": 3.6,
+                "comment": "Well-maintained and secure society",
+                "date": "2024-05-24"
+            },
+            {
+                "id": 2,
+                "user": "Priya Mehta",
+                "rating": 4.8,
+                "comment": "Spacious and airy rooms",
+                "date": "2024-06-29"
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Uday Villa",
+        "latitude": 23.412176,
+        "longitude": 81.858132,
+        "state": "Uttar Pradesh",
+        "city": "Kanpur",
+        "landmark": "Near Metro Station",
+        "price": 12491278,
+        "shippage": 318496,
+        "ammenities": [
+            "Gym",
+            "Air Conditioning",
+            "Security",
+            "Club House"
+        ],
+        "rent": 44650,
+        "priceBreakdown": {
+            "basePrice": 5918105,
+            "gst": 295905,
+            "stampDuty": 177543,
+            "registrationCharges": 118362,
+            "maintenanceDeposit": 63258
+        },
+        "reviews": []
+    },
+    {
+        "id": 42,
+        "name": "Chandrika Sadan",
+        "latitude": 32.868136,
+        "longitude": 87.366948,
+        "state": "Chandigarh",
+        "city": "Chandigarh",
+        "landmark": "Near IT Hub",
+        "price": 23896536,
+        "shippage": 459983,
+        "ammenities": [
+            "WiFi",
+            "Security"
+        ],
+        "rent": 39988,
+        "priceBreakdown": {
+            "basePrice": 11346950,
+            "gst": 567348,
+            "stampDuty": 340408,
+            "registrationCharges": 226939,
+            "maintenanceDeposit": 67941
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "Rajesh Kumar",
+                "rating": 3.6,
+                "comment": "Excellent amenities and connectivity",
+                "date": "2024-05-12"
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Meghdoot",
+        "latitude": 21.020807,
+        "longitude": 87.717991,
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "landmark": "Near IT Hub",
+        "price": 28892259,
+        "shippage": 345523,
+        "ammenities": [
+            "Play Area",
+            "Elevator"
+        ],
+        "rent": 33482,
+        "priceBreakdown": {
+            "basePrice": 13676380,
+            "gst": 683819,
+            "stampDuty": 410291,
+            "registrationCharges": 273528,
+            "maintenanceDeposit": 171861
+        },
+        "reviews": []
+    },
+    {
+        "id": 44,
+        "name": "Surya Kutir",
+        "latitude": 30.572716,
+        "longitude": 89.411164,
+        "state": "Madhya Pradesh",
+        "city": "Bhopal",
+        "landmark": "Adjacent to Hospital",
+        "price": 5143524,
+        "shippage": 269925,
+        "ammenities": [
+            "Play Area",
+            "Garden",
+            "Gym",
+            "Security",
+            "Elevator",
+            "Power Backup"
+        ],
+        "rent": 35428,
+        "priceBreakdown": {
+            "basePrice": 2394517,
+            "gst": 119726,
+            "stampDuty": 71836,
+            "registrationCharges": 47890,
+            "maintenanceDeposit": 115038
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "Amit Joshi",
+                "rating": 3.1,
+                "comment": "Great locality, peaceful environment",
+                "date": "2024-03-13"
+            },
+            {
+                "id": 2,
+                "user": "Vikram Singh",
+                "rating": 3.0,
+                "comment": "Value for money, but a bit far from the city center",
+                "date": "2025-01-03"
+            },
+            {
+                "id": 3,
+                "user": "John Doe",
+                "rating": 4.1,
+                "comment": "Well-maintained and secure society",
+                "date": "2024-11-18"
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Rudra Villa",
+        "latitude": 23.836154,
+        "longitude": 82.871176,
+        "state": "Bihar",
+        "city": "Patna",
+        "landmark": "Near Tech Park",
+        "price": 27032250,
+        "shippage": 437216,
+        "ammenities": [
+            "WiFi",
+            "Swimming Pool"
+        ],
+        "rent": 47905,
+        "priceBreakdown": {
+            "basePrice": 12831098,
+            "gst": 641555,
+            "stampDuty": 384933,
+            "registrationCharges": 256622,
+            "maintenanceDeposit": 86944
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "Rajesh Kumar",
+                "rating": 3.7,
+                "comment": "Great locality, peaceful environment",
+                "date": "2024-08-05"
+            },
+            {
+                "id": 2,
+                "user": "Vikram Singh",
+                "rating": 3.1,
+                "comment": "Friendly neighbors and good surroundings",
+                "date": "2024-03-26"
+            },
+            {
+                "id": 3,
+                "user": "Anita Sharma",
+                "rating": 4.4,
+                "comment": "Excellent amenities and connectivity",
+                "date": "2025-01-14"
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Krishna Kutir",
+        "latitude": 32.473793,
+        "longitude": 81.089554,
+        "state": "Gujarat",
+        "city": "Vadodara",
+        "landmark": "Opposite to Shopping Mall",
+        "price": 8225765,
+        "shippage": 182312,
+        "ammenities": [
+            "Gym",
+            "Air Conditioning",
+            "CCTV Surveillance"
+        ],
+        "rent": 12034,
+        "priceBreakdown": {
+            "basePrice": 3847178,
+            "gst": 192359,
+            "stampDuty": 115415,
+            "registrationCharges": 76944,
+            "maintenanceDeposit": 146691
+        },
+        "reviews": []
+    },
+    {
+        "id": 47,
+        "name": "Rudra Villa",
+        "latitude": 22.388086,
+        "longitude": 90.837777,
+        "state": "Gujarat",
+        "city": "Vadodara",
+        "landmark": "Near Metro Station",
+        "price": 28855694,
+        "shippage": 295666,
+        "ammenities": [
+            "Club House",
+            "Parking",
+            "Elevator",
+            "Play Area",
+            "Air Conditioning"
+        ],
+        "rent": 26690,
+        "priceBreakdown": {
+            "basePrice": 13669591,
+            "gst": 683480,
+            "stampDuty": 410088,
+            "registrationCharges": 273392,
+            "maintenanceDeposit": 149552
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "Priya Mehta",
+                "rating": 4.9,
+                "comment": "Great locality, peaceful environment",
+                "date": "2024-06-03"
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Lakshmi Villa",
+        "latitude": 8.454495,
+        "longitude": 88.026446,
+        "state": "Andhra Pradesh",
+        "city": "Visakhapatnam",
+        "landmark": "Near Metro Station",
+        "price": 13485481,
+        "shippage": 370713,
+        "ammenities": [
+            "Gym",
+            "Air Conditioning",
+            "Power Backup",
+            "Security"
+        ],
+        "rent": 20851,
+        "priceBreakdown": {
+            "basePrice": 6367535,
+            "gst": 318377,
+            "stampDuty": 191026,
+            "registrationCharges": 127351,
+            "maintenanceDeposit": 113657
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "Anita Sharma",
+                "rating": 4.2,
+                "comment": "Excellent amenities and connectivity",
+                "date": "2025-01-22"
+            },
+            {
+                "id": 2,
+                "user": "Vikram Singh",
+                "rating": 3.1,
+                "comment": "Well-maintained and secure society",
+                "date": "2024-02-04"
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Parvati Nivas",
+        "latitude": 25.901602,
+        "longitude": 89.076909,
+        "state": "Uttar Pradesh",
+        "city": "Lucknow",
+        "landmark": "Near Tech Park",
+        "price": 10802938,
+        "shippage": 132138,
+        "ammenities": [
+            "Air Conditioning",
+            "WiFi",
+            "Club House",
+            "CCTV Surveillance",
+            "Elevator"
+        ],
+        "rent": 17448,
+        "priceBreakdown": {
+            "basePrice": 5100983,
+            "gst": 255049,
+            "stampDuty": 153029,
+            "registrationCharges": 102020,
+            "maintenanceDeposit": 90874
+        },
+        "reviews": []
+    },
+    {
+        "id": 50,
+        "name": "Kiran Residency",
+        "latitude": 36.452598,
+        "longitude": 90.599979,
+        "state": "West Bengal",
+        "city": "Kolkata",
+        "landmark": "Behind School",
+        "price": 15337053,
+        "shippage": 332873,
+        "ammenities": [
+            "Club House",
+            "Elevator",
+            "Air Conditioning"
+        ],
+        "rent": 19084,
+        "priceBreakdown": {
+            "basePrice": 7259057,
+            "gst": 362953,
+            "stampDuty": 217772,
+            "registrationCharges": 145181,
+            "maintenanceDeposit": 93033
+        },
+        "reviews": []
+    },
+    {
+        "id": 51,
+        "name": "Kiran Residency",
+        "latitude": 9.150599,
+        "longitude": 86.529178,
+        "state": "Rajasthan",
+        "city": "Jaipur",
+        "landmark": "Near Market",
+        "price": 31035222,
+        "shippage": 361727,
+        "ammenities": [
+            "Power Backup",
+            "Elevator",
+            "WiFi",
+            "Garden",
+            "Play Area"
+        ],
+        "rent": 14141,
+        "priceBreakdown": {
+            "basePrice": 14703712,
+            "gst": 735186,
+            "stampDuty": 441111,
+            "registrationCharges": 294074,
+            "maintenanceDeposit": 157427
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "Rajesh Kumar",
+                "rating": 3.4,
+                "comment": "Great locality, peaceful environment",
+                "date": "2024-09-14"
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "name": "Lakshmi Villa",
+        "latitude": 32.478507,
+        "longitude": 90.426511,
+        "state": "Maharashtra",
+        "city": "Nagpur",
+        "landmark": "Near Metro Station",
+        "price": 14430295,
+        "shippage": 407970,
+        "ammenities": [
+            "Power Backup",
+            "Gym",
+            "Swimming Pool",
+            "WiFi"
+        ],
+        "rent": 47554,
+        "priceBreakdown": {
+            "basePrice": 6784181,
+            "gst": 339209,
+            "stampDuty": 203525,
+            "registrationCharges": 135684,
+            "maintenanceDeposit": 183515
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "Anita Sharma",
+                "rating": 4.2,
+                "comment": "Great locality, peaceful environment",
+                "date": "2024-11-20"
+            },
+            {
+                "id": 2,
+                "user": "John Doe",
+                "rating": 4.8,
+                "comment": "Great locality, peaceful environment",
+                "date": "2024-04-01"
+            },
+            {
+                "id": 3,
+                "user": "Priya Mehta",
+                "rating": 4.1,
+                "comment": "Great locality, peaceful environment",
+                "date": "2024-10-02"
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "name": "Krishna Kutir",
+        "latitude": 27.014132,
+        "longitude": 84.094667,
+        "state": "West Bengal",
+        "city": "Kolkata",
+        "landmark": "Behind School",
+        "price": 12623215,
+        "shippage": 489313,
+        "ammenities": [
+            "Swimming Pool",
+            "WiFi"
+        ],
+        "rent": 17919,
+        "priceBreakdown": {
+            "basePrice": 5929897,
+            "gst": 296495,
+            "stampDuty": 177897,
+            "registrationCharges": 118598,
+            "maintenanceDeposit": 170431
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "Amit Joshi",
+                "rating": 4.2,
+                "comment": "Value for money, but a bit far from the city center",
+                "date": "2024-03-04"
+            },
+            {
+                "id": 2,
+                "user": "Rajesh Kumar",
+                "rating": 4.9,
+                "comment": "Value for money, but a bit far from the city center",
+                "date": "2024-07-06"
+            },
+            {
+                "id": 3,
+                "user": "John Doe",
+                "rating": 3.9,
+                "comment": "Spacious and airy rooms",
+                "date": "2024-04-23"
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "name": "Surya Kutir",
+        "latitude": 27.683032,
+        "longitude": 85.122399,
+        "state": "Maharashtra",
+        "city": "Nagpur",
+        "landmark": "Near IT Hub",
+        "price": 17934341,
+        "shippage": 387879,
+        "ammenities": [
+            "Gym",
+            "Swimming Pool",
+            "Parking",
+            "Security",
+            "WiFi",
+            "Air Conditioning"
+        ],
+        "rent": 19131,
+        "priceBreakdown": {
+            "basePrice": 8468787,
+            "gst": 423439,
+            "stampDuty": 254064,
+            "registrationCharges": 169376,
+            "maintenanceDeposit": 149888
+        },
+        "reviews": []
+    },
+    {
+        "id": 55,
+        "name": "Aashirwad",
+        "latitude": 8.469279,
+        "longitude": 89.536855,
+        "state": "Tamil Nadu",
+        "city": "Madurai",
+        "landmark": "Close to Bus Stop",
+        "price": 26463532,
+        "shippage": 442449,
+        "ammenities": [
+            "Elevator",
+            "CCTV Surveillance",
+            "Air Conditioning",
+            "WiFi"
+        ],
+        "rent": 29529,
+        "priceBreakdown": {
+            "basePrice": 12523533,
+            "gst": 626177,
+            "stampDuty": 375706,
+            "registrationCharges": 250471,
+            "maintenanceDeposit": 164112
+        },
+        "reviews": []
+    },
+    {
+        "id": 56,
+        "name": "Durga Residency",
+        "latitude": 36.558306,
+        "longitude": 83.097434,
+        "state": "West Bengal",
+        "city": "Kolkata",
+        "landmark": "Close to College",
+        "price": 28786117,
+        "shippage": 415616,
+        "ammenities": [
+            "Gym",
+            "Swimming Pool"
+        ],
+        "rent": 18334,
+        "priceBreakdown": {
+            "basePrice": 13636446,
+            "gst": 681822,
+            "stampDuty": 409093,
+            "registrationCharges": 272729,
+            "maintenanceDeposit": 149581
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "Anita Sharma",
+                "rating": 4.6,
+                "comment": "Friendly neighbors and good surroundings",
+                "date": "2024-09-14"
+            },
+            {
+                "id": 2,
+                "user": "Vikram Singh",
+                "rating": 4.2,
+                "comment": "Spacious and airy rooms",
+                "date": "2024-08-17"
+            },
+            {
+                "id": 3,
+                "user": "Amit Joshi",
+                "rating": 4.4,
+                "comment": "Value for money, but a bit far from the city center",
+                "date": "2024-04-28"
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "name": "Krishna Kutir",
+        "latitude": 36.190654,
+        "longitude": 85.482491,
+        "state": "Delhi",
+        "city": "Delhi",
+        "landmark": "Near Railway Station",
+        "price": 8484843,
+        "shippage": 238663,
+        "ammenities": [
+            "WiFi",
+            "Elevator"
+        ],
+        "rent": 45161,
+        "priceBreakdown": {
+            "basePrice": 3981505,
+            "gst": 199075,
+            "stampDuty": 119445,
+            "registrationCharges": 79630,
+            "maintenanceDeposit": 123683
+        },
+        "reviews": []
+    },
+    {
+        "id": 58,
+        "name": "Raj Mahal",
+        "latitude": 17.226238,
+        "longitude": 84.525625,
+        "state": "Madhya Pradesh",
+        "city": "Bhopal",
+        "landmark": "Close to College",
+        "price": 14088373,
+        "shippage": 354071,
+        "ammenities": [
+            "Gym",
+            "WiFi",
+            "Air Conditioning",
+            "Club House"
+        ],
+        "rent": 21040,
+        "priceBreakdown": {
+            "basePrice": 6657845,
+            "gst": 332892,
+            "stampDuty": 199735,
+            "registrationCharges": 133157,
+            "maintenanceDeposit": 106899
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "John Doe",
+                "rating": 4.0,
+                "comment": "Friendly neighbors and good surroundings",
+                "date": "2024-05-24"
+            },
+            {
+                "id": 2,
+                "user": "Vikram Singh",
+                "rating": 4.1,
+                "comment": "Excellent amenities and connectivity",
+                "date": "2025-01-16"
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "name": "Chandrika Sadan",
+        "latitude": 28.342392,
+        "longitude": 91.48553,
+        "state": "Chandigarh",
+        "city": "Chandigarh",
+        "landmark": "Near Metro Station",
+        "price": 18285067,
+        "shippage": 165097,
+        "ammenities": [
+            "Elevator",
+            "Garden",
+            "Power Backup",
+            "Gym",
+            "Club House"
+        ],
+        "rent": 27994,
+        "priceBreakdown": {
+            "basePrice": 8628192,
+            "gst": 431410,
+            "stampDuty": 258846,
+            "registrationCharges": 172564,
+            "maintenanceDeposit": 165863
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "John Doe",
+                "rating": 3.3,
+                "comment": "Excellent amenities and connectivity",
+                "date": "2024-06-04"
+            },
+            {
+                "id": 2,
+                "user": "John Doe",
+                "rating": 4.1,
+                "comment": "Friendly neighbors and good surroundings",
+                "date": "2024-12-31"
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "name": "Neelkamal",
+        "latitude": 12.685732,
+        "longitude": 84.285407,
+        "state": "Delhi",
+        "city": "Delhi",
+        "landmark": "Near IT Hub",
+        "price": 30864152,
+        "shippage": 280216,
+        "ammenities": [
+            "Air Conditioning",
+            "Gym",
+            "Elevator"
+        ],
+        "rent": 31547,
+        "priceBreakdown": {
+            "basePrice": 14631327,
+            "gst": 731566,
+            "stampDuty": 438940,
+            "registrationCharges": 292627,
+            "maintenanceDeposit": 138365
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "John Doe",
+                "rating": 4.1,
+                "comment": "Spacious and airy rooms",
+                "date": "2024-04-24"
+            },
+            {
+                "id": 2,
+                "user": "John Doe",
+                "rating": 4.6,
+                "comment": "Friendly neighbors and good surroundings",
+                "date": "2024-10-21"
+            },
+            {
+                "id": 3,
+                "user": "Priya Mehta",
+                "rating": 4.4,
+                "comment": "Value for money, but a bit far from the city center",
+                "date": "2024-02-28"
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "name": "Radha Kripa",
+        "latitude": 18.287114,
+        "longitude": 91.165798,
+        "state": "Maharashtra",
+        "city": "Pune",
+        "landmark": "Near Park",
+        "price": 15707002,
+        "shippage": 370488,
+        "ammenities": [
+            "Play Area",
+            "CCTV Surveillance",
+            "Elevator",
+            "Power Backup",
+            "Gym"
+        ],
+        "rent": 17080,
+        "priceBreakdown": {
+            "basePrice": 7392396,
+            "gst": 369620,
+            "stampDuty": 221772,
+            "registrationCharges": 147848,
+            "maintenanceDeposit": 182970
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "Anita Sharma",
+                "rating": 4.6,
+                "comment": "Excellent amenities and connectivity",
+                "date": "2024-09-20"
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "name": "Ganesh Bhavan",
+        "latitude": 27.13434,
+        "longitude": 84.214813,
+        "state": "Tamil Nadu",
+        "city": "Madurai",
+        "landmark": "Behind School",
+        "price": 19123301,
+        "shippage": 407401,
+        "ammenities": [
+            "Gym",
+            "Play Area",
+            "Garden",
+            "Swimming Pool"
+        ],
+        "rent": 36672,
+        "priceBreakdown": {
+            "basePrice": 9052234,
+            "gst": 452612,
+            "stampDuty": 271567,
+            "registrationCharges": 181045,
+            "maintenanceDeposit": 113609
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "Anita Sharma",
+                "rating": 4.9,
+                "comment": "Spacious and airy rooms",
+                "date": "2024-05-09"
+            },
+            {
+                "id": 2,
+                "user": "Vikram Singh",
+                "rating": 4.6,
+                "comment": "Value for money, but a bit far from the city center",
+                "date": "2024-08-05"
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "name": "Ganesh Bhavan",
+        "latitude": 22.068643,
+        "longitude": 84.144245,
+        "state": "Uttar Pradesh",
+        "city": "Noida",
+        "landmark": "Close to College",
+        "price": 12551999,
+        "shippage": 138102,
+        "ammenities": [
+            "CCTV Surveillance",
+            "Garden",
+            "Power Backup",
+            "WiFi",
+            "Elevator"
+        ],
+        "rent": 39775,
+        "priceBreakdown": {
+            "basePrice": 5906989,
+            "gst": 295349,
+            "stampDuty": 177210,
+            "registrationCharges": 118140,
+            "maintenanceDeposit": 147322
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "Vikram Singh",
+                "rating": 4.5,
+                "comment": "Spacious and airy rooms",
+                "date": "2024-05-26"
+            },
+            {
+                "id": 2,
+                "user": "Vikram Singh",
+                "rating": 3.3,
+                "comment": "Friendly neighbors and good surroundings",
+                "date": "2024-08-05"
+            },
+            {
+                "id": 3,
+                "user": "John Doe",
+                "rating": 3.5,
+                "comment": "Value for money, but a bit far from the city center",
+                "date": "2024-06-30"
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "name": "Shanti Kunj",
+        "latitude": 14.4568,
+        "longitude": 84.511827,
+        "state": "Uttar Pradesh",
+        "city": "Noida",
+        "landmark": "Opposite to Shopping Mall",
+        "price": 22783993,
+        "shippage": 174454,
+        "ammenities": [
+            "Gym",
+            "Parking",
+            "WiFi",
+            "Swimming Pool"
+        ],
+        "rent": 18804,
+        "priceBreakdown": {
+            "basePrice": 10802748,
+            "gst": 540137,
+            "stampDuty": 324082,
+            "registrationCharges": 216055,
+            "maintenanceDeposit": 98223
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "Anita Sharma",
+                "rating": 4.5,
+                "comment": "Value for money, but a bit far from the city center",
+                "date": "2024-08-12"
+            },
+            {
+                "id": 2,
+                "user": "Amit Joshi",
+                "rating": 4.7,
+                "comment": "Excellent amenities and connectivity",
+                "date": "2024-09-04"
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "name": "Sanjeev Nivas",
+        "latitude": 8.432734,
+        "longitude": 85.470478,
+        "state": "Tamil Nadu",
+        "city": "Coimbatore",
+        "landmark": "Near IT Hub",
+        "price": 4557245,
+        "shippage": 209730,
+        "ammenities": [
+            "Garden",
+            "Power Backup",
+            "Elevator"
+        ],
+        "rent": 40768,
+        "priceBreakdown": {
+            "basePrice": 2101684,
+            "gst": 105084,
+            "stampDuty": 63051,
+            "registrationCharges": 42034,
+            "maintenanceDeposit": 143708
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "user": "Rajesh Kumar",
+                "rating": 4.2,
+                "comment": "Great locality, peaceful environment",
+                "date": "2024-08-13"
+            },
+            {
+                "id": 2,
+                "user": "Anita Sharma",
+                "rating": 4.1,
+                "comment": "Great locality, peaceful environment",
+                "date": "2024-08-26"
+            },
+            {
+                "id": 3,
+                "user": "John Doe",
+                "rating": 4.5,
+                "comment": "Excellent amenities and connectivity",
+                "date": "2024-03-21"
+            }
+        ]
+    }
+]
+}
